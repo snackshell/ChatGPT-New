@@ -89,7 +89,7 @@ features = (
     "4. Voice response\n"
     "5. Multi language\n\n"
     "Please submit your Issue or Request in here:\n"
-    "https://github.com/Kourva/AwesomeChatGPTBot/issues\n\n"
+    "https://github.com/snackshell/ChatGPT-New/issues\n\n"
     "*Recent changes*:\n"
     "# Added multiple providers.\n"
     "# Changes on commands.\n"
